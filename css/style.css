@@ -1,0 +1,27 @@
+li {
+	list-style: none;
+	text-align: left;
+}
+
+
+p,a{
+	font-size: 17px;
+}
+
+.panel{
+
+  height: 200px;
+}
+
+.panel-primary > .panel-heading{
+  background-color:#3F536B; 
+
+}
+
+.panel-primary img{
+  font-size: 150%;
+  width: 23px;
+  height: 23px;
+}
+
+	
